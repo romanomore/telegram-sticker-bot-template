@@ -45,7 +45,7 @@ pip install python-telegram-bot
 ```bash
 python sticker_bot.py
 ```
-
+git
 ### Using Docker
 
 ```bash
@@ -89,12 +89,10 @@ TOKEN=your_bot_token_from_botfather
 
 ```
 telegram-sticker-bot/
-├── crying_bot.py           # Main bot script
+├── sticker_bot.py           # Main bot script
 ├── requirements.txt        # Python dependencies
 ├── Dockerfile             # Docker configuration
 ├── docker-compose.yaml    # Docker Compose setup
-├── .env.example          # Environment variables template
-├── .gitignore            # Git ignore rules
 └── README.md             # This file
 ```
 
