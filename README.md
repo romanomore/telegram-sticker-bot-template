@@ -43,7 +43,7 @@ pip install python-telegram-bot
 ### Running the Bot
 
 ```bash
-python crying_bot.py
+python sticker_bot.py
 ```
 
 ### Using Docker
